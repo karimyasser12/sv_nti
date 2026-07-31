@@ -1,7 +1,4 @@
-// Code your testbench here
-// or browse Examples
-// Code your testbench here
-// or browse Examples
+
 module ALU_TB;
   logic [15:0] A, B;
   logic [3:0]  ALU_FUN;
