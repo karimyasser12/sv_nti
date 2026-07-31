@@ -7,4 +7,4 @@ THIS REPO CONTAINS 2 FILES
 2.4)a png photo of the waveform
 2.5)the second method (mailbox) code i made
 2.6)a png photo of the result of mailbox method transcript
-2.4)a png photo of the waveform of mailbox method
+2.7)a png photo of the waveform of mailbox method
